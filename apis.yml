@@ -13,15 +13,15 @@ created: '2024-12-03'
 modified: '2026-03-16'
 specificationVersion: '0.19'
 tags:
+  - Employment
   - Federal Government
   - Labor
-  - Employment
 apis:
   - aid: national-labor-relations-board:national-labor-relations-board
     name: National Labor Relations Board
     tags:
-      - Labor
       - Employment
+      - Labor
     humanURL: https://www.nlrb.gov/data-on-datagov
     properties:
       - url: https://www.nlrb.gov/data-on-datagov
