@@ -30,6 +30,8 @@ apis:
       NLRB case data including Unfair Labor Practice and Elections data from
       the Case Activity Tracking System available on data.gov.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/national-labor-relations-board
   - type: Website
     url: https://www.nlrb.gov/
   - type: Portal
