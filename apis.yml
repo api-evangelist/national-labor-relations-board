@@ -37,12 +37,13 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
   - Employment
-  - Federal-Government
+  - Federal Government
   - Labor
 tags_raw:
   - Employment
   - Federal Government
   - Labor
+  - Federal-Government
 apis:
   - aid: national-labor-relations-board:national-labor-relations-board
     name: National Labor Relations Board
